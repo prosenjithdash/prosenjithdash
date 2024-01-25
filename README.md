@@ -10,7 +10,7 @@ Skills: MONGODB / EXPRESSJS / NODEJS / REACT / JS / HTML / CSS / C++ / C
 - 🌱 I’m currently learning JavaScript 
 - 👯 I’m looking to collaborate on Github 
 - 💬 Ask me about Web Development 
-- 📫 How to reach me: prosenjith.edu@gmail.com 
+- 📫 How to reach me: prosenjith.j@gmail.com 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/prosenjithdash)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/prosenjith-dash-pappu-039418251//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/prosenjithdash.pappu.3/)  
