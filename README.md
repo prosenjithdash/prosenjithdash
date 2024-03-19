@@ -23,7 +23,7 @@ Skills: MONGODB / EXPRESSJS / NODEJS / REACT / JS / HTML / CSS / C++ / C
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=prosenjithdash&show_icons=true&count_private=true)  
 
-![GitHub streak stats](https://streak-stats.github.com/?user=prosenjithdash)  
+![GitHub streak stats](https://streak-stats.demo.com/?user=prosenjithdash)  
 
 
 
