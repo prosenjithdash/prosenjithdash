@@ -7,9 +7,10 @@ My name is  Prosenjith Dash Pappu. Currently I'm studying Computer Science and E
 
 Skills: MONGODB / EXPRESSJS / NODEJS / REACT / JS / HTML / CSS / C++ / C
 
-- 🌱 I’m currently learning JavaScript 
+- 🌱 I’m currently learning Express.JS 
 - 👯 I’m looking to collaborate on Github 
-- 💬 Ask me about Web Development 
+- 💬 Ask me about Web Development
+- 🏍️ I like traveling with Motorcycle.
 - 📫 How to reach me: prosenjith.j@gmail.com 
 
 
